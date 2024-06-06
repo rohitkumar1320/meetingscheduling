@@ -1,0 +1,21 @@
+.time-scheduler {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .time-scheduler input {
+    margin: 10px 0;
+  }
+  
+  .time-scheduler button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .time-scheduler button:hover {
+    background-color: #0056b3;
+  }
